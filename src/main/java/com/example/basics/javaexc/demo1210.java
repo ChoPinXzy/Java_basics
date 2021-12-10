@@ -14,15 +14,15 @@ public class demo1210 {
     1.命令之所以能在命令窗口中执行，是因为path环境变量已经把这些命令配置好了
 比如Java和javac之所以在任何命令窗口中能够运行，就是因为path变量配置好了，程序执行的时候可以找到javac等
 
-在配置Java环境变量的时候，因为Java在jdk的bin目录下，所以需要在系统环境变量中，配置一个Java_home:里边写jdk的bin目录路径，把%Java_home%bin写在path的路径的好处就是，之后切换了Java的jdk版本，可以不用修改path的变量
+在配置Java环境变量的时候，因为Java在jdk的bin目录下，所以需要在系统环境变量中，
+配置一个Java_home:里边写jdk的bin目录路径，把%Java_home%bin写在path的路径的好处就是，
+之后切换了Java的jdk版本，可以不用修改path的变量
 
 
     *
     * */
 
 
-    /*
-    intellij IDEA （智能理念）的使用技巧
-    * */
+
 
 }
